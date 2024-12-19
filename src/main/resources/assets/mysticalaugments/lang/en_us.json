@@ -1,0 +1,18 @@
+{
+  "item.mysticalaugments.engraver_template_i": "Engraver Template",
+  "item.mysticalaugments.engraver_template_ii": "Ancient Engraver Template",
+  "item.mysticalaugments.inferium_essence_crystal": "Inferium Crystal",
+  "item.mysticalaugments.prudentium_essence_crystal": "Prudentium Crystal",
+  "item.mysticalaugments.tertium_essence_crystal": "Tertium Crystal",
+  "item.mysticalaugments.imperium_essence_crystal": "Imperium Crystal",
+  "item.mysticalaugments.supremium_essence_crystal": "Supremium Crystal",
+  "item.mysticalaugments.insanium_essence_crystal": "Insanium Crystal",
+  "item.mysticalaugments.awakened_supremium_essence_crystal": "Awakened Supremium Crystal",
+
+  "item.mysticalaugments.smithing_template.mystical_socket_upgrade.applies_to": "Equipment",
+  "item.mysticalaugments.smithing_template.mystical_socket_upgrade.ingredients": "Essence Crystals",
+  "item.mysticalaugments.smithing_template.mystical_socket_upgrade.slot_description": "Add a piece of equipment",
+  "item.mysticalaugments.smithing_template.mystical_socket_upgrade.additions_description": "Add a piece of essence crystal",
+
+  "upgrade.mysticalaugments.smithing_template.mystical_socket_upgrade": "Engrave Sockets"
+}
