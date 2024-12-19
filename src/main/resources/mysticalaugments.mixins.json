@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "lv.cebbys.mcmods.mystical.augments.everywhere.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "mysticalaugments.refmap.json",
+  "mixins": [
+    "AugmentUtilityMixin",
+    "InventoryMixin",
+    "ItemStackMixin",
+    "TinkerableUtilityMixin",
+    "TinkeringTableTileEntityMixin",
+    "slot.AugmentSlotMixin"
+  ]
+}
